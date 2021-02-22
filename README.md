@@ -4,7 +4,7 @@
 
 | Developer | Rama | Rol |
 | --- | :---:  | :---:  |
-| Nicol Arias | Dev | Developer| 
+| Nicol Arias | main | Developer| 
 
 #### 2. Description
 ```
